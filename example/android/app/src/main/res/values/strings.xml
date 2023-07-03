@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mimo-sdk-sample</string>
+    <string name="load_portrait_reward_video_ad">Load portrait reward video ad</string>
+    <string name="load_landscape_reward_video_ad">Load landscape reward video ad</string>
+    <string name="show_landscape_reward_video_ad">Show landscape reward video ad</string>
+    <string name="show_portrait_reward_video_ad">Show portrait reward video ad</string>
+</resources>
